@@ -1,0 +1,9 @@
+﻿Row 1,,,
+Row 2,,,
+day,temperature,windspeed,event
+01-01-23,32,6,Rain
+02-01-23,35,7,Sunny
+03-01-23,28,2,Snow
+04-01-23,24,7,Snow
+05-01-23,32,4,Rain
+06-01-23,32,2,Sunny
